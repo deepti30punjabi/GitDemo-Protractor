@@ -20,3 +20,4 @@ var cd = new ClassDemo(123);
 cd.setUserName();
 console.log(cd.getUserName());
 console.log(cd.getSSN());
+console.log(cd.getSSN());

@@ -7,4 +7,6 @@ var Greeter = /** @class */ (function () {
     };
     return Greeter;
 }());
+
+//Coment
 var greeter = new Greeter("world");
